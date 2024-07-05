@@ -1,3 +1,4 @@
+/* navbar */
 .lote {
     padding-left: 3rem;
 
@@ -6,6 +7,32 @@
 .img__logo {
     border-radius: 10%;
 }
+
+.img__logo--redondo {
+  border-radius: 50%;
+}
+
+/* novedades */
+.box-news {
+  padding-top: 2rem;
+}
+
+.row {
+  padding-left: 2.5rem ;
+}
+
+.title {
+font-size: large;
+}
+
+.logo_bt {
+  padding-top: 1rem;
+  width: 600px
+}
+
+
+
+
 
 
 .poppins-bold {
