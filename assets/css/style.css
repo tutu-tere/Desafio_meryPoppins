@@ -1,0 +1,27 @@
+.lote {
+    padding-left: 3rem;
+
+}
+
+.img__logo {
+    border-radius: 10%;
+}
+
+
+.poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+
+      .poppins-regular {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .poppins-medium {
+        font-family: "Poppins", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+      }
